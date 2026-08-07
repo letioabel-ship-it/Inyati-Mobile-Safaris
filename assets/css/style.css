@@ -318,7 +318,7 @@ button {
             rgba(0, 0, 0, 0.88) 0%,
             rgba(0, 0, 0, 0.65) 48%,
             rgba(0, 0, 0, 0.25) 100%
-        ),url(../Images/home-banner.jpg)
+        ),url(../images/home-banner.jpg)
         url("../") center/cover no-repeat;
 }
 
@@ -515,7 +515,7 @@ button {
             rgba(250, 249, 244, 0.96),
             rgba(250, 249, 244, 0.96)
         ),
-        url("../images/Assets/Images/WhatsApp Image 2026-07-22 at 17.57.46.jpg") center / cover no-repeat;
+        url("../images/assets/amages/WhatsApp Image 2026-07-22 at 17.57.46.jpg") center / cover no-repeat;
     background-attachment: fixed;
 }
 
@@ -712,7 +712,7 @@ button {
             rgba(250, 249, 244, 0.72),
             rgba(250, 249, 244, 0.82)
         ),
-        url("../images/Assets/Images/WhatsApp Image 2026-07-22 at 17.57.46.jpeg");
+        url("../images/assets/images/WhatsApp Image 2026-07-22 at 17.57.46.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1974,7 +1974,7 @@ button {
             rgba(0, 0, 0, 0.9),
             rgba(0, 0, 0, 0.35)
         ),
-        url("..//Images/about-us-banner.jpg") center / cover no-repeat;
+        url("..//images/about-us-banner.jpg") center / cover no-repeat;
 }
 
 .page-hero-overlay {
@@ -2230,7 +2230,7 @@ button {
             rgba(0, 0, 0, 0.9),
             rgba(0, 0, 0, 0.35)
         ),
-        url("../Images/destinations-banner.jpg") center / cover no-repeat;
+        url("../images/destinations-banner.jpg") center / cover no-repeat;
 }
 
 .destinations-overview {
@@ -2356,7 +2356,7 @@ button {
             rgba(0, 0, 0, 0.9),
             rgba(0, 0, 0, 0.35)
         ),
-        url("../Images/safari-packages.Jpeg") center / cover no-repeat;
+        url("../images/safari-packages.Jpeg") center / cover no-repeat;
 }
 
 .package-category-section {
@@ -3074,7 +3074,7 @@ button {
             rgba(0, 0, 0, 0.78),
             rgba(0, 0, 0, 0.2)
         ),
-        url("..//Images/gallery-banner.jpg");
+        url("..//images/gallery-banner.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -3193,7 +3193,7 @@ button {
             rgba(0, 0, 0, 0.78),
             rgba(0, 0, 0, 0.2)
         ),
-        url("../Images/WhatsApp Image 2026-07-22 at 17.57.56 (1).jpeg");
+        url("../images/WhatsApp Image 2026-07-22 at 17.57.56 (1).jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -3410,7 +3410,7 @@ button {
             rgba(0, 0, 0, 0.78),
             rgba(0, 0, 0, 0.2)
         ),
-        url("../Images/IMG-20240728-WA0011 (1).jpg");
+        url("../images/IMG-20240728-WA0011 (1).jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -4266,7 +4266,7 @@ button {
             rgba(0, 0, 0, 0.65),
             rgba(0, 0, 0, 0.65)
         ),
-        url("../Images/home-banner.jpg")
+        url("../images/home-banner.jpg")
         center / cover no-repeat !important;
 }
 /* Why Choose Us background image */
@@ -4277,6 +4277,6 @@ button {
             rgba(0, 0, 0, 0.68),
             rgba(0, 0, 0, 0.68)
         ),
-        url("../Images/why-choose-us.jpg")
+        url("../images/why-choose-us.jpg")
         center / cover no-repeat !important;
 }
